@@ -1,11 +1,9 @@
 # Invoice Management Automation Project
 <br/>
 
-**Organization:** Majestik Magik 
+**Author:** eyovvalupe
 
-**Author:** Amos0312  
-
-**Email:** amosmiller0312@gmail.com  
+**Email:** jakewoodall002@gmail.com  
 
 <p align="center"> <img src="./images/invoice_manage.png" alt="workflow" /> </p>
 
